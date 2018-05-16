@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<project name="springapp" basedir="." default="usage">
+<project name="springapp" basedir="." default="package">
     
 
     <property name="src.dir" value="src"/>
